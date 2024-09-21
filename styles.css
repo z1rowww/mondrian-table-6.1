@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 5px solid black;
+    margin: 0;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
+.large {
+    width: 200px;
+    height: 200px;
+}
+
+.medium {
+    width: 150px;
+    height: 150px;
+}
+
+.small {
+    width: 100px;
+    height: 100px;
+}
